@@ -2,8 +2,8 @@
 - 👀 I’m interested in learning coding especially in cybersecurity or development full stack
 - 🌱 I’m currently learning python sql c
 - 💞️ I’m looking to collaborate on people who are interessed to learn me or to help to acquire knowledge of Pentester or another field of computer science in the field of engineering
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me ...in email mathysadjanohun13@gmail.com
+- 😄 Pronouns: ...matsuda
 - ⚡ Fun fact: ...
 
 <!---
